@@ -3,7 +3,7 @@ This program for sniffing data over HTTP and HTTPS with extra tools like SSLSTRI
 
 
 # HOW TO USE IT 
-python3 sniffer.py -i <your interface>
+python3 sniffer.py -i <YOUR INTERFACE >
 
 
 # EXAMPLE :
